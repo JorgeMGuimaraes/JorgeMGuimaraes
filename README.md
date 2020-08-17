@@ -1,6 +1,6 @@
 # > echo $(whoami)
 
-[![Linkedin](images/linkedin.png)](https://www.linkedin.com/in/jorgedev/)
+[![Linkedin](https://github.com/JorgeMGuimaraes/JorgeMGuimaraes/blob/master/images/linkedin.png)](https://www.linkedin.com/in/jorgedev/)
 
 ## Tecnologias e Linguagens
 
