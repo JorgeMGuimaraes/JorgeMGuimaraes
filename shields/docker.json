@@ -1,0 +1,10 @@
+{
+    "schemaVersion": 1,
+    "namedLogo": "docker",
+    "logoColor": "FFF",
+    "label": "Ferramenta",
+    "labelColor": "000",
+    "message": "Docker",
+    "color": "52796F",
+    "style": "flat-square"
+}

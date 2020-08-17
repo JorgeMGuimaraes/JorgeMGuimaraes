@@ -1,0 +1,10 @@
+{
+    "schemaVersion": 1,
+    "namedLogo": "windows",
+    "logoColor": "FFF",
+    "label": "OS",
+    "labelColor": "000",
+    "message": "Windows",
+    "color": "2F3E46",
+    "style": "flat-square"
+}

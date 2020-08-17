@@ -1,0 +1,10 @@
+{
+    "schemaVersion": 1,
+    "namedLogo": "mariadb",
+    "logoColor": "FFF",
+    "label": "Ferramenta",
+    "labelColor": "000",
+    "message": "MySQL/ MariaDB",
+    "color": "52796F",
+    "style": "flat-square"
+}

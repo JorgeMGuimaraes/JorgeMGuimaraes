@@ -1,0 +1,5 @@
+- [ ] header image
+- [ ] Greeting
+- [ ] Intro
+- [x] Technologies and tools
+- [ ] GitHub Stats
