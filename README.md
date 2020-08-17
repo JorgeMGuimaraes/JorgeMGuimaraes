@@ -1,5 +1,6 @@
 # > echo $(whoami)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" class="filter-green"/>](https://www.linkedin.com/in/jorgedev/)
+
+[![Linkedin](images/linkedin.png)](https://www.linkedin.com/in/jorgedev/)
 
 ## Tecnologias e Linguagens
 
