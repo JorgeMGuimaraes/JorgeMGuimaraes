@@ -2,4 +2,5 @@
 - [ ] Greeting
 - [ ] Intro
 - [x] Technologies and tools
-- [ ] GitHub Stats
+- [x] GitHub Stats
+- [ ] contatos
