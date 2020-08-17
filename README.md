@@ -1,4 +1,5 @@
-# Jorge Guimaraes
+# > echo $(whoami)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" class="filter-green"/>](https://www.linkedin.com/in/jorgedev/)
 
 ## Tecnologias e Linguagens
 
@@ -9,3 +10,5 @@
 ![Google%20Cloud](https://img.shields.io/badge/Ferramenta-Google%20Cloud-52796F?logo=google-cloud&logoColor=fff&labelColor=00171f&style=flat-square) ![Microsoft%20Azure](https://img.shields.io/badge/Ferramenta-Microsoft%20Azure-52796F?logo=microsoft-azure&logoColor=fff&labelColor=00171f&style=flat-square) ![Jupyter](https://img.shields.io/badge/Ferramenta-Jupyter-52796F?logo=jupyter&logoColor=fff&labelColor=00171f&style=flat-square) ![Pandas](https://img.shields.io/badge/Ferramenta-Pandas-52796F?logo=pandas&logoColor=fff&labelColor=00171f&style=flat-square) ![MySQL/%20MariaDB](https://img.shields.io/badge/Ferramenta-MySQL/%20MariaDB-52796F?logo=mariadb&logoColor=fff&labelColor=00171f&style=flat-square) ![Docker](https://img.shields.io/badge/Ferramenta-Docker-52796F?logo=docker&logoColor=fff&labelColor=00171f&style=flat-square) ![.NET](https://img.shields.io/badge/Ferramenta-.NET-52796F?logo=.net&logoColor=fff&labelColor=00171f&style=flat-square) ![Git](https://img.shields.io/badge/Ferramenta-Git-52796F?logo=git&logoColor=fff&labelColor=00171f&style=flat-square) ![Node.js](https://img.shields.io/badge/Ferramenta-Node.js-52796F?logo=node.js&logoColor=fff&labelColor=00171f&style=flat-square)
 
 ![Adobe%20Creative](https://img.shields.io/badge/Programas-Adobe%20Creative-84A98C?logo=adobe-creative-cloud&logoColor=fff&labelColor=00171f&style=flat-square) ![Microsoft%20Visual%20Studio](https://img.shields.io/badge/Programas-Microsoft%20Visual%20Studio-84A98C?logo=visual-studio&logoColor=fff&labelColor=00171f&style=flat-square) ![VS%20Code](https://img.shields.io/badge/Programas-VS%20Code-84A98C?logo=visual-studio-code&logoColor=fff&labelColor=00171f&style=flat-square) ![Microsoft%20Office](https://img.shields.io/badge/Programas-Microsoft%20Office-84A98C?logo=microsoft-office&logoColor=fff&labelColor=00171f&style=flat-square)
+
+[![Jorge Guimaraes's github stats](https://github-readme-stats.vercel.app/api?username=JorgeMGuimaraes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JorgeMGuimaraes)
