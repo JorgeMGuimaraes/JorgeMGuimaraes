@@ -1,35 +1,35 @@
 # OS:2F3E46
 
-Linux:Linux
+Linux:linux
 Windows:windows
 
 # Linguagem:354F52
 
 Python:python
-C++:cplusplus
+C++:c++
 Java:java
-C #:csharp
+C #:c-sharp
 PHP:php
 Bash:gnubash
 SQL:postgresql
 
 # Ferramenta:52796F
-Google Cloud:googlecloud
-Microsoft Azure:microsoftazure
+Google Cloud:google-cloud
+Microsoft Azure:microsoft-azure
 Jupyter:jupyter
 Pandas:pandas
 MySQL/ MariaDB:mariadb
 Docker:docker
-.NET:dot-net
+.NET:.net
 Git:git
-Node.js:node-dot-js
+Node.js:node.js
 
 # Programas:84A98C
 
-Adobe Creative:adobecreativecloud
-Microsoft Visual Studio:visualstudio
-VS Code:visualstudiocode
-Microsoft Office:microsoftoffice
+Adobe Creative:adobe-creative-cloud
+Microsoft Visual Studio:visual-studio
+VS Code:visual-studio-code
+Microsoft Office:microsoft-office
 
 
 

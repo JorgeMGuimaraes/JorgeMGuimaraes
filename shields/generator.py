@@ -1,6 +1,7 @@
 import json
 import io
 import codecs
+import urllib.parse as up
 
 def is_header(lin: str) -> bool:
     return lin[0] == "#"
@@ -21,31 +22,31 @@ def get_shield(lin: str, label: str, color: str) -> dict:
         "style": "flat-square"
     }
 
+def get_shield_link(lin: str, label: str, color: str) -> str:
+    shields_io_url  = "https://img.shields.io/badge/"
+    element         = lin.rstrip().split(':')
+    message         = element[0]
+    namedLogo       = element[1]
+    return f'![{up.quote(message)}]({shields_io_url}{up.quote(label)}-{up.quote(message)}-{color}?logo={up.quote(namedLogo)}&logoColor=fff&labelColor=00171f&style=flat-square) '
+
 # Main Program
 file_name = "shields.txt"
-shields_io_url = "https://img.shields.io/endpoint?url="
-git_url = "https://github.com/JorgeMGuimaraes/JorgeMGuimaraes/shields/"
-with codecs.open(
-    file_name,
-    mode='r',
-    encoding='utf-8') as file:
+with codecs.open(file_name, mode='r', encoding='utf-8') as file:
 
     markdown = "## Tecnologias e Linguagens"
+
     for line in file:
+
         if is_content(line):
+
             if is_header(line):
-                line = line.rstrip().split(':')
-                label = line[0][2:]
-                color = line[1]
-                markdown += '\n\n'
+                line        = line.rstrip().split(':')
+                label       = line[0][2:]
+                color       = line[1]
+                markdown    += '\n\n'
+
             else:
-                shield = get_shield(line, label, color)
-                markdown += f'![{shield["message"]}]({shields_io_url}{git_url}{shield["namedLogo"]}.json) '
-                with codecs.open(
-                    f'{shield["namedLogo"]}.json',
-                    mode='w',
-                    encoding='utf-8') as out_json:
-                    out_json.write(json.dumps(shield, indent=4, ensure_ascii=False))
+                markdown += get_shield_link(line, label, color)
 
     with io.open('markdown.md', mode='w') as out_md:
         out_md.write(markdown)
