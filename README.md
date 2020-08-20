@@ -1,4 +1,5 @@
 # > echo $(whoami)
+![Header](https://github.com/JorgeMGuimaraes/JorgeMGuimaraes/blob/master/images/header_128.gif)
 
 [![Linkedin](https://github.com/JorgeMGuimaraes/JorgeMGuimaraes/blob/master/images/linkedin.png)](https://www.linkedin.com/in/jorgedev/)
 
@@ -13,3 +14,5 @@
 ![Adobe%20Creative](https://img.shields.io/badge/Programas-Adobe%20Creative-84A98C?logo=adobe-creative-cloud&logoColor=fff&labelColor=00171f&style=flat-square) ![Microsoft%20Visual%20Studio](https://img.shields.io/badge/Programas-Microsoft%20Visual%20Studio-84A98C?logo=visual-studio&logoColor=fff&labelColor=00171f&style=flat-square) ![VS%20Code](https://img.shields.io/badge/Programas-VS%20Code-84A98C?logo=visual-studio-code&logoColor=fff&labelColor=00171f&style=flat-square) ![Microsoft%20Office](https://img.shields.io/badge/Programas-Microsoft%20Office-84A98C?logo=microsoft-office&logoColor=fff&labelColor=00171f&style=flat-square)
 
 [![Jorge Guimaraes's github stats](https://github-readme-stats.vercel.app/api?username=JorgeMGuimaraes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JorgeMGuimaraes)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMGuimaraes&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

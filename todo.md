@@ -6,3 +6,4 @@
 - [x] ~~Technologies and tools~~
 - [x] ~~GitHub Stats~~
 - [ ] contatos
+- [ ] badges (google, azure)
