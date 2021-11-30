@@ -1,2 +1,0 @@
-linkedin icon
-https://www.iconfinder.com/icons/771370/circle_linkedin_logo_media_network_share_social_icon
