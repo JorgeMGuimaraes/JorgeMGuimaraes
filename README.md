@@ -8,6 +8,12 @@
 [![Linkedin][linkedin-img]][linkedin-link]
 [![GCP][gcp-img]][gcp-link]
 
+## I'm working on
+
+> ![Jenkins S3][proj-jenkins-s3]
+>
+> In this project we will deploy a static website to AWS S3 using Jenkins pipelines.
+
 ## Main Qualifications
 
 * Professional in career transition to DevOps and Cloud Infrastructure;
@@ -22,7 +28,7 @@
 
 ### Superintendência de Tecnologia da Informação/ UFF
 
-Ruby on Rails Developer (jan/2021 - present)
+**Ruby on Rails Developer (jan/2021 - present)**
 
 * Developed and deployed a safer encrypted document identifier and validator system;
 * Analytical software developer, working on Ruby on Rails and Oracle 8 large-scale projects;
@@ -49,6 +55,8 @@ Ruby on Rails Developer (jan/2021 - present)
 [![Jorge Guimaraes's github stats](https://github-readme-stats.vercel.app/api?username=JorgeMGuimaraes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JorgeMGuimaraes)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMGuimaraes&count_private=true&theme=tokyonight)](https://github.com/JorgeMGuimaraes?tab=repositories)
+
+[proj-jenkins-s3]: https://raw.githubusercontent.com/JorgeMGuimaraes/devops-jenkins-s3/main/docs/images/card.jpg
 
 [header-img]: /images/header.jpg
 [linkedin-img]: images/linkedin.png
