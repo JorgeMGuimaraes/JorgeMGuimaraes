@@ -1,5 +1,7 @@
 # > echo $(whoami)
 
+## Jorge Guimaraes
+
 ![Header][header-img]
 
 [![Linkedin][linkedin-img]][linkedin-link]
