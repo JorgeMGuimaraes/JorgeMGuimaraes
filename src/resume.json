@@ -1,0 +1,79 @@
+{
+    "selectedTemplate": 1,
+    "headings": {
+      "work": "",
+      "education": "",
+      "skills": "",
+      "projects": "",
+      "awards": ""
+    },
+    "basics": {
+      "name": "Jorge Marinho Guimaraes",
+      "email": "",
+      "phone": "",
+      "website": "",
+      "location": {
+        "address": ""
+      }
+    },
+    "education": [
+      {
+        "institution": "",
+        "location": "",
+        "area": "",
+        "studyType": "",
+        "startDate": "",
+        "endDate": "",
+        "gpa": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "location": "",
+        "position": "",
+        "website": "",
+        "startDate": "",
+        "endDate": "",
+        "highlights": [
+          ""
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "",
+        "description": "",
+        "url": "",
+        "keywords": [
+          ""
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "",
+        "date": "",
+        "awarder": "",
+        "summary": ""
+      }
+    ],
+    "sections": [
+      "templates",
+      "profile",
+      "education",
+      "work",
+      "skills",
+      "projects",
+      "awards"
+    ]
+  }
